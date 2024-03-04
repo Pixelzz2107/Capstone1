@@ -1,0 +1,33 @@
+h1{
+    color: #FBFADA;
+    text-align: center;
+}
+.img{
+    width: 20%;
+    margin-left: 40%;
+    
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: #B4B4B8;
+    
+    
+}
+h2{
+    background-color: #C68484;
+}
+h2{
+    text-align: center;
+    
+}
+.mid{
+    background-color: #EEEEEE;
+}
+footer{
+    background-color: #C68484;
+}
+#h2{
+    height: 10px;
+}
